@@ -1,7 +1,7 @@
 # Student Grading System
 
 ## Introduction
-This project is a student grading system implemented in C++. It allows users to input student details such as name, section, phone number, email ID, and marks in various subjects (Mathematics,Physics,C++, and English). Based on the input marks, it calculates the total marks and assigns a grade to each student. This project was written by following principles of Object Oriented programming concepts.
+This project is a student grading system implemented in C++. It allows users to input student details such as name, section, phone number, email ID, and marks in various subjects (Mathematics,Physics,C++, and English). Based on the input marks, it calculates the total marks and assigns a grade to each student. This project was written by following principles of Object Oriented programming concepts. Useful to understand oops concepts also.
 
 ## Features
 - Allows input for multiple students
